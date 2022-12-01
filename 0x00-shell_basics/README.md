@@ -1,1 +1,1 @@
-My readme for magic file
+My readme for welcome to school
