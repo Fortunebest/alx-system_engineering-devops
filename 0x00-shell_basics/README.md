@@ -1,1 +1,1 @@
-My readme for first delete
+My readme for first directory deletion
