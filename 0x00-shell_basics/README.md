@@ -1,1 +1,1 @@
-My readme for list files digit only
+My readme for first directory
