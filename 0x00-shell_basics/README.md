@@ -1,1 +1,1 @@
-My readme for file type
+My readme for magic file
