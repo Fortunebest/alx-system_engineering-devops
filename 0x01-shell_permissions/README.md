@@ -1,1 +1,1 @@
-My readme for execution of multiple permissions
+My readme for execution of permission to everybody
