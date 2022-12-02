@@ -1,1 +1,1 @@
-My readme for effective user name of who am i
+My readme to print all the groups and the current user
