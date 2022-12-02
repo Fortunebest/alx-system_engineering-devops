@@ -1,1 +1,1 @@
-My readme to set permisson to hello, skip owner, skip groups and favour others
+My readme to set mode of file hello
