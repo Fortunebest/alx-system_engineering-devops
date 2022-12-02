@@ -1,1 +1,1 @@
-My readme for change of file
+my readme to change group owner to school
