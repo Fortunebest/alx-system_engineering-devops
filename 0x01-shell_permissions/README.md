@@ -1,1 +1,1 @@
-My readme for i am Betty
+My readme for effective user name of who am i
