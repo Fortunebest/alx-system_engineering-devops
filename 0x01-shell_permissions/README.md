@@ -1,1 +1,1 @@
-My readme to set the mode of the two mirrored files to look the same
+My readme to play the star wars iv episode to the terminal
