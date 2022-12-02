@@ -1,1 +1,1 @@
-my readme to change group owner to school
+My readme to create directory called my dir
