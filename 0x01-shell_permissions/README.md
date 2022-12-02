@@ -1,1 +1,1 @@
-My readme for execution of permission to everybody
+My readme to set permisson to hello, skip owner, skip groups and favour others
