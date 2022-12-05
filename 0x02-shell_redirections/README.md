@@ -1,1 +1,1 @@
-My readme on how to write the result of a command in a file
+My readme on how to duplicate the last line of a file
