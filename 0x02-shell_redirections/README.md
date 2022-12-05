@@ -1,1 +1,1 @@
-My readme on how to display lines containing the pattern root, and 3 lines after them
+My readme on how to display all the lines in the file that do not contain the word bin
