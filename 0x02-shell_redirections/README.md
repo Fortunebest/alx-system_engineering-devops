@@ -1,1 +1,1 @@
-my readme to reverse its input
+My readme to display all users and their home directories
