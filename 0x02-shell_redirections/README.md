@@ -1,1 +1,1 @@
-my readme on how to display a number tht contain a pattern in a file
+My readme on how to display lines containing the pattern root, and 3 lines after them
