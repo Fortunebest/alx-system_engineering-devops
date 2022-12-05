@@ -1,1 +1,1 @@
-my readme on how to count directories
+My readme on print only words that appear once
