@@ -1,1 +1,1 @@
-My readme on how to delete a file from many files
+my readme on how to count directories
