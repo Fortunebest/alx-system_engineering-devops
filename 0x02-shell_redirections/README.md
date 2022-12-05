@@ -1,1 +1,1 @@
-My readme on how to duplicate the last line of a file
+My readme on how to delete a file from many files
