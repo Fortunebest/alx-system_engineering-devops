@@ -1,1 +1,1 @@
-My readme on how to display a file name with characters
+My readme on how to write the result of a command in a file
