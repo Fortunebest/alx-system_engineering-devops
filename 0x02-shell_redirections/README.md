@@ -1,1 +1,1 @@
-My readme on how to display the third line of a file
+My readme on how to display a file name with characters
