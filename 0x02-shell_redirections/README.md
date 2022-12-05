@@ -1,1 +1,1 @@
-My readme for removing the letters Cc from the input
+my readme to reverse its input
