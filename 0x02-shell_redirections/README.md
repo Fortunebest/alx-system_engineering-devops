@@ -1,1 +1,1 @@
-My readme on print only words that appear once
+My readme on how to display lines containing the pattern root from the file
