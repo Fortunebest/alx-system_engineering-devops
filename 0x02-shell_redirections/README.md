@@ -1,1 +1,1 @@
-My readme on how to write hello world
+My readme for special charaters
