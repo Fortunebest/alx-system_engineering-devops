@@ -1,1 +1,1 @@
-My readme to count all directories in the PATH
+My readme to list environment variables
