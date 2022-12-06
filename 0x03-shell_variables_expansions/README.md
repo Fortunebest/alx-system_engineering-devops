@@ -1,1 +1,1 @@
-My readme to add action to the PATH, and action is the last directory
+My readme to count all directories in the PATH
