@@ -1,1 +1,1 @@
-My readme for alias file
+My readme for current user
