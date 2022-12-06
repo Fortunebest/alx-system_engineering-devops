@@ -1,1 +1,1 @@
-My readme create a new local variable
+My readme to create a new global variable
