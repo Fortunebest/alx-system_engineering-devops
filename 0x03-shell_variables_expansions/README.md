@@ -1,1 +1,1 @@
-My readme to list environment variables
+My readme to list all local, environment variables and functions
