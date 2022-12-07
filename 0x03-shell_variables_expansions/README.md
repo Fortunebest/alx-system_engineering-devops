@@ -1,1 +1,1 @@
-My readme to create a new global variable
+My readme the result of pwer divide be divide
